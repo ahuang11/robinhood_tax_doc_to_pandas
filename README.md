@@ -13,4 +13,6 @@ I wrote this script (alongside ChatGPT) to:
 - serializes captured rows as pandas DataFrame
 - sum up dividends prior to and after move date
 
+![image](https://user-images.githubusercontent.com/15331990/230653267-84962ab5-6d8c-49b0-a612-adbef8c0430d.png)
+
 Use at your own risk if you decide to use this for your own taxes.
