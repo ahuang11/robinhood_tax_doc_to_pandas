@@ -14,4 +14,3 @@ I wrote this script (alongside ChatGPT) to:
 - sum up dividends prior to and after move date
 
 Use at your own risk if you decide to use this for your own taxes.
-# robinhood_tax_doc_to_pandas
